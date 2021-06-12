@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70b2f68d-461a-4917-bf6c-98372638a6ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project 2 - Assessment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-2.0.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Flask-2.0.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-21.1.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-21.1.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/flask.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/flask.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tqqumXQaNX6XrcqJvvcvh6LGVH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70b2f68d-461a-4917-bf6c-98372638a6ae" name="Default Changelist" comment="" />
+      <created>1623507191672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623507191672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="80" key="SettingsEditor" timestamp="1623507251566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="80" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1623507251566" />
+  </component>
+</project>
