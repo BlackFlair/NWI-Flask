@@ -3,8 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <title>Home</title>
+    <style>
+        table{
+            padding: 50px;
+            width: 800px;
+        }
+
+        tr{
+            padding: 15px;
+        }
+    </style>
 </head>
 <body>
+    <form action="/home" method="post">
+        <input type="text" name="todo" placeholder="Todo" required>
+        <input type="date" name="due" placeholder="dueDate">
+        <input type="submit" name="add" value="Add">
 
+        <table>
+            <tr>
+                <th>To-Do</th>
+                <th>Due Date</th>
+            </tr>
+
+            {%for i in range(t)%}
+                <tr>
+                    <td>{{t[0]}}</td>
+                    <td>{{t[1]}}</td>
+                    <td><input type="hidden" name="complete" value="{{i}}"><button>Complete</button></input></td>
+                </tr>
+            {%endfor%}
+
+        </table>
+    </form>
 </body>
 </html>
